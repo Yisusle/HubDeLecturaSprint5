@@ -41,6 +41,10 @@ No me gustas.
 
 ![imagen](https://github.com/user-attachments/assets/1fc4ef38-c287-45d2-9ff1-f6f1981eade6)
 
+Modelo Entidad Relación
+![Modelo Entidad Relacion drawio](https://github.com/user-attachments/assets/5ef87e7e-fad9-4aeb-87fa-7fa5f9cada98)
+
+
 
 
 ### 5. Proceso que seguí para realizar el proyecto
