@@ -13,23 +13,34 @@ Utilice VB 6.0
 Hay que instalar VB 6.0, despues importar la base de datos y configurar la conexion a la base de datos en el modulo"modDatabase" para hacer la conexión.
 ### 4. Capturas de pantalla 
 
-Login del proyecto.
-![imagen](https://github.com/Yisusle/HubEntretenimiento/assets/155853302/ba4fa25d-75f1-48ac-875c-1951c7cd921f)
-
 Pagina principal del proyecto.
-![imagen](https://github.com/user-attachments/assets/d4428b51-6155-410f-9cbc-2a866608873e)
 
-Detelles de la pelicula o serie.
-![imagen](https://github.com/user-attachments/assets/9f7b352e-1d46-4e4f-a880-fb046f34827f)
+![imagen](https://github.com/user-attachments/assets/dc01ef35-5986-45c1-85e8-fc797c3cc61f)
 
-Peliculas y Series ordenadas por genero
-![imagen](https://github.com/user-attachments/assets/6c973906-0683-417f-ab23-5ba4d58ced45)
+Detelles del libro.
 
-Los favoritos agregados por el usuario.
-![imagen](https://github.com/user-attachments/assets/7c871130-d6b3-4980-9903-86a310b99080)
+![imagen](https://github.com/user-attachments/assets/566943dd-5f99-48bb-9ae0-e0e396372ef7)
 
-Modelo Entidad Relación
-![ModeloEntidadRelación](https://github.com/user-attachments/assets/d914e60b-d3fb-4b53-89e1-e9a4ea5dd486)
+Libros Recomendados.
+
+![imagen](https://github.com/user-attachments/assets/5ddc1639-134a-4bca-bac5-f775aa24f1fc)
+
+Libros Leidos.
+
+![imagen](https://github.com/user-attachments/assets/643170d5-53dd-4665-9c48-3c0d11a49a01)
+
+Genero Favorito.
+
+![imagen](https://github.com/user-attachments/assets/e7e496a4-baa8-4b1f-85a2-981e0a2ae628)
+
+Libros Para leer.
+
+![imagen](https://github.com/user-attachments/assets/535d2c0a-135f-4897-8fa1-b9277c9e046c)
+
+No me gustas.
+
+![imagen](https://github.com/user-attachments/assets/1fc4ef38-c287-45d2-9ff1-f6f1981eade6)
+
 
 
 ### 5. Proceso que seguí para realizar el proyecto
@@ -39,7 +50,7 @@ Viendo tutos y foros en internet.
 
 | Que salio bien? | Que puedo hacer diferente? | Que no salio bien ? |
 ------------------|----------------------------|-----------------------
-| Aprender a hacer cosas en VB |Tener mas conocimiento sobre VB  | Pues hacer mejor el programa en general |
+| Aprender a hacer cosas en VB |Tener mas conocimiento sobre VB  | Pues hacer mejor el programa en general y redimencionar las imagenes.|
 
 
 
